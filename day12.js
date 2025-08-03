@@ -1,5 +1,5 @@
 //Objects
-//collection of  realted data and/or functionlally
+//collection of related data and/or functionality
 var user={
     "name":"rahul",
     "age":22,
@@ -20,7 +20,7 @@ for (var key in user) {
 //obj using constructor
 //we can create obj using function constructoer & class contructor
 //both class and functipn constructor returns an empty onject
-//"this" kyword will will used
+//"this" keyword will be used
 
 //create using function constructor
 
@@ -85,3 +85,4 @@ var p1=new prsn("Aman",22)
 console.log(p1);
 var p2=new p("Aman",22)
 console.log(p2);
+
